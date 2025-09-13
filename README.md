@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I’m passionate about exploring data, uncovering 
 
 ## 🔧 Skills & Tools
 
+* **Generative AI Skills**: AI for Content Creation and Research, Prompt Engineering
 * **Programming & Data Science**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) | R
 * **Data Collection**: Web Scraping (BeautifulSoup, Scrapy, Selenium) | APIs
 * **Visualization & BI Tools**: Power BI | Tableau
@@ -17,12 +18,29 @@ Welcome to my GitHub profile! I’m passionate about exploring data, uncovering 
 
 ---
 
+## 📂 Certificates
+
+## 📂 Courses
+
+* **Google Data Analytics Professional Certificate**
+* **Python Fundamentals**
+* **Generative AI Foundations Certificate**
+* **R Programming: Advanced Analysis in R for Data Science**
+* **Power BI for Beginners**
+
+
+## 📂 Workshops  
+
+* **AI Tools Workshop**
+* **AI Dashboards using Microsoft Power BI**
+
+---  
+
 ## 📂 Featured Projects
 
 📊 **Exploratory Data Analysis (EDA)** – Analyzing datasets to uncover trends, patterns, and insights.
 🌐 **Web Scraping Projects** – Collecting real-world data from websites for analytics.
 📈 **Dashboards in Power BI & Tableau** – Interactive visualizations to communicate data-driven insights.
-🤖 **Machine Learning (Basics)** – Hands-on experiments with regression and classification models.
 
 *(More projects coming soon as I continue building my portfolio!)*
 
