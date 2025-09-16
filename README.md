@@ -7,6 +7,14 @@ Welcome to my GitHub profile! I’m passionate about exploring data, uncovering 
 
 ---
 
+👩‍🎓 **Education**
+
+🎓 M.Tech Medical Biotechnology – [Indian Institute of Technology,Hyderabad] 2025
+
+📖_Coursework_: NGS technology, Pharmacology of receptors, Advance courses in Biotechnology
+
+---
+
 ## 🔧 Skills & Tools
 
 * **Generative AI Skills**: AI for Content Creation and Research, Prompt Engineering
