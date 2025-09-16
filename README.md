@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I’m passionate about exploring data, uncovering 
 📊 **Exploratory Data Analysis (EDA)** – Analyzing datasets to uncover trends, patterns, and insights.
 🌐 **Web Scraping Projects** – Collecting real-world data from websites for analytics.
 📈 **Dashboards in Power BI & Tableau** – Interactive visualizations to communicate data-driven insights.
-
+🔧 **Generative AI Projects** - Content generation, AI agents
 *(More projects coming soon as I continue building my portfolio!)*
 
 ---
