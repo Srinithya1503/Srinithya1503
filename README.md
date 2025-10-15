@@ -15,17 +15,6 @@ Welcome to my GitHub profile! I’m passionate about exploring data, uncovering 
 
 ---
 
-## 🔧 Skills & Tools
-
-* **Generative AI Skills**: AI for Content Creation and Research, Prompt Engineering
-* **Programming & Data Science**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) | R
-* **Data Collection**: Web Scraping (BeautifulSoup, Scrapy, Selenium) | APIs
-* **Visualization & BI Tools**: Power BI | Tableau
-* **Databases**: SQL (basic to intermediate)
-* **Other**: Git & GitHub | Excel
-
----
-
 ## 📂 Certificates
 
 ## 📂 Courses
@@ -44,12 +33,24 @@ Welcome to my GitHub profile! I’m passionate about exploring data, uncovering 
 
 ---  
 
+## 🔧 Skills & Tools
+
+* **Generative AI Skills**: AI for Content Creation and Research, Prompt Engineering
+* **Programming & Data Science**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) | R
+* **Data Collection**: Web Scraping (BeautifulSoup, Scrapy, Selenium) | APIs
+* **Visualization & BI Tools**: Power BI | Tableau
+* **Databases**: SQL (basic to intermediate)
+* **Other**: Git & GitHub | Excel
+
+---
+
 ## 📂 Featured Projects
 
-📊 **Exploratory Data Analysis (EDA)** – Analyzing datasets to uncover trends, patterns, and insights.
 🌐 **Web Scraping Projects** – Collecting real-world data from websites for analytics.
+📊 **Exploratory Data Analysis (EDA)** – Analyzing datasets to uncover trends, patterns, and insights using Excel, Python, SQL and R.
 📈 **Dashboards in Power BI & Tableau** – Interactive visualizations to communicate data-driven insights.
-🔧 **Generative AI Projects** - Content generation, AI agents
+✨ **AI Projects** - Utilising AI API, ML, DL techniques to develop and deploy AI solutions.
+🔧 **Generative AI Projects** - Utilising Gen AI tools, open LLMs, AI API and other websites like make.com, n8n to develop AI automation like Chatbots, Agents.
 *(More projects coming soon as I continue building my portfolio!)*
 
 ---
@@ -57,7 +58,7 @@ Welcome to my GitHub profile! I’m passionate about exploring data, uncovering 
 ## 🌱 Currently Learning
 
 * Advanced SQL for Data Analytics
-* Time Series Analysis
+* Python ML libraries
 * More hands-on with Power BI & Tableau storytelling
 
 ---
