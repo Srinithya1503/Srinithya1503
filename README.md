@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m **Sri Nithya!**
 
-🎯 **Aspiring Data Analyst | Lifelong Learner | Problem Solver**
+🎯 **Aspiring Data Scientist | Lifelong Learner | Problem Solver**
 
 Welcome to my GitHub profile!  
 I’m passionate about exploring data, uncovering insights, and building solutions that transform raw information into meaningful stories.  
@@ -41,7 +41,7 @@ Currently, I’m focused on strengthening my portfolio with hands-on projects in
 | 💻 **Programming & Data Science** | Python *(Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)*, R |
 | 🌐 **Data Collection** | Web Scraping *(BeautifulSoup, Scrapy, Selenium)*, APIs |
 | 📊 **Visualization & BI** | Power BI, Tableau |
-| 🗄️ **Databases** | SQL *(Basic to Intermediate)* |
+| 🗄️ **Databases** | PostgreSQL *(Basic to Intermediate)* |
 | ⚙️ **Others** | Git & GitHub, Excel |
 
 ---
