@@ -18,11 +18,11 @@ Currently, I’m focused on strengthening my portfolio with hands-on projects in
 
 ## 🏅 Certificates & Courses  
 
-- 🎓 **Google Data Analytics Professional Certificate**  
-- 🐍 **Python Fundamentals**  
-- 🧠 **Generative AI Foundations Certificate**  
-- 📊 **R Programming: Advanced Analysis in R for Data Science**  
-- 💡 **Power BI for Beginners**
+- 🎓 **Google Data Analytics Professional Certificate**  [Link](https://github.com/Srinithya1503/My-Certificates-and-Portfolio/blob/main/Sri_Nithya_S_GDA.pdf)
+- 🐍 **Python Fundamentals**  [Link](https://github.com/Srinithya1503/My-Certificates-and-Portfolio/blob/main/PY_FD_SOA.pdf)
+- 🧠 **Generative AI Foundations Certificate**  [Link](https://github.com/Srinithya1503/My-Certificates-and-Portfolio/blob/main/Sri_Nithya_S_Upgrad_GenAi.pdf)
+- 📊 **R Programming: Advanced Analysis in R for Data Science**  [Link](https://github.com/Srinithya1503/My-Certificates-and-Portfolio/blob/main/R%20Programming%20Advanced%20Analytics%20Udemy.pdf)
+- 💡 **Power BI for Beginners** 
 
 ---
 
@@ -30,6 +30,7 @@ Currently, I’m focused on strengthening my portfolio with hands-on projects in
 
 - 🤖 **AI Tools Workshop**  
 - 📈 **AI Dashboards using Microsoft Power BI**
+- 🤖 **GenAI Generalist** 
 
 ---
 
@@ -38,7 +39,7 @@ Currently, I’m focused on strengthening my portfolio with hands-on projects in
 | **Category** | **Skills / Tools** |
 |:--------------|:------------------|
 | 🧩 **Generative AI** | AI for Content Creation & Research, Prompt Engineering |
-| 💻 **Programming & Data Science** | Python *(Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)*, R |
+| 💻 **Programming & Data Science** | Python *(Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Pyspark)*, R |
 | 🌐 **Data Collection** | Web Scraping *(BeautifulSoup, Scrapy, Selenium)*, APIs |
 | 📊 **Visualization & BI** | Power BI, Tableau |
 | 🗄️ **Databases** | PostgreSQL *(Basic to Intermediate)* |
@@ -79,9 +80,8 @@ Developing **AI automations**, **chatbots**, and **agents** using **GenAI tools*
 
 ## 🌱 Currently Learning  
 
-- ⚙️ Advanced SQL for Data Analytics  
-- 🧮 Machine Learning with Python  
-- 📊 Power BI & Tableau Storytelling Techniques  
+- 🧮 Machine Learning with Python
+- AI Agents Orchestration  
 
 ---
 
