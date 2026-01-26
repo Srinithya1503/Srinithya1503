@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m **Sri Nithya!**
 
-🎯 **Aspiring Data Scientist | Lifelong Learner | Problem Solver**
+🎯 **Data Analyst & AI Automation Practitioner | Lifelong Learner | Problem Solver**
 
 Welcome to my GitHub profile!  
 I’m passionate about exploring data, uncovering insights, and building solutions that transform raw information into meaningful stories.  
