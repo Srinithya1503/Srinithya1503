@@ -15,7 +15,6 @@ Currently, I’m focused on strengthening my portfolio with hands-on projects in
 
 ```
 ```
----
 
 ## 💼 Experience
 
@@ -29,10 +28,8 @@ Currently, I’m focused on strengthening my portfolio with hands-on projects in
 * Focused on interpretability, feasibility validation, and actionable decision support rather than metric optimization alone.
 
 🔗 **Project Repository:** [UM Internship Projects](Github_Link)
-
 ```
 ```
-
 ## 🏅 Certificates & Courses  
 
 - **Google Data Analytics Professional Certificate**  [Link](https://github.com/Srinithya1503/My-Certificates-and-Portfolio/blob/main/Sri_Nithya_S_GDA.pdf)
