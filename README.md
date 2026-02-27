@@ -34,7 +34,8 @@ Currently, I’m focused on strengthening my portfolio with hands-on projects in
 
 - **Google Data Analytics Professional Certificate**  [Link](https://github.com/Srinithya1503/My-Certificates-and-Portfolio/blob/main/Sri_Nithya_S_GDA.pdf)
 - **Python Fundamentals**  [Link](https://github.com/Srinithya1503/My-Certificates-and-Portfolio/blob/main/PY_FD_SOA.pdf)
-- **Associate Data Analyst in SQL** [Link]()
+- **Associate Data Analyst in SQL** [Link](https://github.com/Srinithya1503/My-Certificates-and-Portfolio/blob/main/SQL_DC.pdf)
+- **Machine Learning Fundamentals** [Link](https://github.com/Srinithya1503/My-Certificates-and-Portfolio/blob/main/DataCamp/DC_Skill_Tracks/Sri_Nithya_S_ML_FD_DC.pdf)
 - **Generative AI Foundations Certificate**  [Link](https://github.com/Srinithya1503/My-Certificates-and-Portfolio/blob/main/Sri_Nithya_S_Upgrad_GenAi.pdf)
 - **R Programming: Advanced Analysis in R for Data Science**  [Link](https://github.com/Srinithya1503/My-Certificates-and-Portfolio/blob/main/R%20Programming%20Advanced%20Analytics%20Udemy.pdf)
 
