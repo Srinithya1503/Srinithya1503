@@ -56,7 +56,7 @@ Currently, I’m focused on strengthening my portfolio with hands-on projects in
 |:--------------|:------------------|
 | 🌐 **Data Collection** | Web Scraping *(BeautifulSoup, Scrapy, Selenium)*, APIs |
 | 🗄️ **Databases** | PostgreSQL *(Advanced)*, PySpark, ETL |
-| 📈 **Data Analytics** | Data Cleaning, Data Annotation, EDA, Predictive Analytics, Insights generation| 
+| 📈 **Data Analytics** | Data Cleaning, Data Annotation, EDA, Predictive Analytics, KPI Analysis, Business Insights | 
 | 📊 **Visualization & BI** | Power BI, Tableau, MS Excel, Streamlit |
 | ⚙️ **Programming** | Shell scripting, R, Python (pandas, NumPy, Scikit-learn, matplotlib, seaborn, plotly, SciPy)|
 | 💻 **Data Science** | Statistics, Feature Engineering, Model Evaluation, NLP|
