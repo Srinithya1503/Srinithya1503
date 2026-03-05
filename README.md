@@ -30,7 +30,7 @@ Currently, I’m focused on strengthening my portfolio with hands-on projects in
 🔗 **Project Repository:** [UM Internship Projects](Github_Link)
 ```
 ```
-## 🏅 Certificates & Courses  
+## 🏅 Certificates  
 
 - **Google Data Analytics Professional Certificate**  [Link](https://github.com/Srinithya1503/My-Certificates-and-Portfolio/blob/main/Sri_Nithya_S_GDA.pdf)
 - **Python Fundamentals**  [Link](https://github.com/Srinithya1503/My-Certificates-and-Portfolio/blob/main/PY_FD_SOA.pdf)
@@ -63,9 +63,9 @@ Currently, I’m focused on strengthening my portfolio with hands-on projects in
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects  - Data Mining Projects in [Healthcare, E-Commerce, Financial] Sectors 
 
-### 🌐 **Web Scraping Projects**  | [Link]()
+### 🌐 **Data Collection Projects**  | [Link]()
 Collecting real-world data from websites using tools like *BeautifulSoup*, *Selenium*, and *Scrapy* for analytics and ML pipelines.
 
 ---
@@ -84,7 +84,7 @@ Designing **interactive dashboards** in **Power BI** and **Tableau** to communic
 
 ---
 
-### 🤖 **AI & Machine Learning Projects** | [Link]()
+### 🤖 ** Machine Learning Projects** | [Link]()
 Building and deploying intelligent solutions using **AI APIs**, **Machine Learning**, and **Deep Learning** techniques.
 
 ---
