@@ -9,7 +9,7 @@ Currently, I’m focused on strengthening my portfolio with hands-on projects in
 ---
 ## 👩‍🎓 Education
 🎓 **M.Tech in Medical Biotechnology** – *Indian Institute of Technology, Hyderabad (Aug 2023–June 2025)*
-* **M.Tech Dissertation:** Comparative Genomics of Signal Transduction Genes (Conducted in the **[Sharma Lab](https://sites.google.com/view/sharmaglab/people?authuser=0)**).
+* **M.Tech Dissertation:** Comparative Genomics of Signal Transduction Genes (Conducted in the **[Sharma Lab](https://sites.google.com/view/sharmaglab/people?authuser=0)**) | [project](https://github.com/Srinithya1503/MTech-project/tree/main)
 * *Achievement:* Automated genomic data collection for 600+ microbial genomes using custom Shell scripts and Python APIs; performed analysis using Pandas and NumPy.
 * *Coursework:* NGS Technology, Pharmacology of Receptors, Advanced Courses in Biotechnology.
 
