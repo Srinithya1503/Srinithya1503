@@ -54,13 +54,14 @@ Currently, I’m focused on strengthening my portfolio with hands-on projects in
 
 | **Category** | **Skills / Tools** |
 |:--------------|:------------------|
-| 🧩 **Generative AI** | AI for Content Creation & Research, Prompt Engineering, GenAI Tools |
-| 💻 **Programming & Data Science** | Python *(Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)*, R |
 | 🌐 **Data Collection** | Web Scraping *(BeautifulSoup, Scrapy, Selenium)*, APIs |
+| 🗄️ **Databases** | PostgreSQL *(Advanced)*, PySpark, ETL |
+| 📈 **Data Analytics** | Data Cleaning, Data Annotation, EDA, Predictive Analytics, Insights generation| 
 | 📊 **Visualization & BI** | Power BI, Tableau, MS Excel, Streamlit |
-| 🗄️ **Databases** | PostgreSQL *(Advanced)*, PySpark |
-| ⚙️ **Others** | Git & GitHub |
-
+| ⚙️ **Programming** | Shell scripting, R, Python (pandas, NumPy, Scikit-learn, matplotlib, seaborn, plotly, SciPy)|
+| 💻 **Data Science** | Statistics, Feature Engineering, Model Evaluation, NLP|
+| 🧩 **AI Automation** | Prompt Engineering, LLMs, API integration, Workflow Automatiion, AI Automation |
+| 💡 **Soft Skills** | Presentation, Story telling, Version Control (Git) |
 ---
 
 ## 🚀 Featured Projects  - Data Mining Projects in [Healthcare, E-Commerce, Financial] Sectors 
