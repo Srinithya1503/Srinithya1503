@@ -73,6 +73,7 @@ Collecting real-world data from websites using tools like *BeautifulSoup*, *Sele
 ### 📊 **Data Analysis Projects** | [Link](https://github.com/Srinithya1503/data-analytics-projects)
 Analyzing datasets to uncover trends, patterns, and insights using **Excel**, **Python**, **SQL**.
 Tools Used : MS-Excel, Postgresql, Python(Pandas, NumPy, Matplotlib, Seaborn)
+#### ***Data Annotation*** | [Link]
 #### ***Exploratory Data Analysis(EDA)*** | [Link](https://github.com/Srinithya1503/data-analytics-projects/tree/main/EDA)
 #### ***SQL-Projects*** | [Link](https://github.com/Srinithya1503/data-analytics-projects/tree/main/sql-projects)
 
