@@ -85,8 +85,8 @@ Designing **interactive dashboards** in **Power BI** and **Tableau** to communic
 
 ---
 
-### 🤖 ** Machine Learning Projects** | [Link]()
-Building and deploying intelligent solutions using **AI APIs**, **Machine Learning**, and **Deep Learning** techniques.
+### 🤖 ** Machine Learning Projects** | [Link](https://github.com/Srinithya1503/Machine-Learning-Projects)
+Building and deploying intelligent solutions using **ML Pipelines**, and **Deep Learning** techniques.
 
 ---
 
