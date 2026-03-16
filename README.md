@@ -27,7 +27,7 @@ Currently, I’m focused on strengthening my portfolio with hands-on projects in
 * Developed interactive dashboards using Streamlit and Power BI to translate analytical outputs into business-ready insights.
 * Focused on interpretability, feasibility validation, and actionable decision support rather than metric optimization alone.
 
-🔗 **Project Repository:** [UM Internship Projects](Github_Link)
+🔗 **Project Repository:** [UM Internship Projects](https://github.com/Srinithya1503/UM-Projects)
 ```
 ```
 ## 🏅 Certificates  
