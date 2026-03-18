@@ -105,6 +105,7 @@ Domain: HR-Tech, Predictive Analytics, Workforce Automation*
 
 ## 🚀 Featured Projects  - Data Mining Projects in [Healthcare, E-Commerce, Financial] Sectors 
 
+
 ### 🌐 **Data Collection Projects**  | [Link]()
 Collecting real-world data from websites using tools like *BeautifulSoup*, *Selenium*, and *Scrapy* for analytics and ML pipelines.
 
@@ -140,13 +141,6 @@ Developing **AI automations**, **chatbots**, and **agents** using **GenAI tools*
 
 ## 🌱 Currently Learning  
 - AI Agents Orchestration  
-
----
-
-## 📫 Connect with Me  
-
- 
-📧 **Email:** [venkatsri1503@gmail.com](mailto:venkatsri1503@gmail.com)
 
 ---
 
