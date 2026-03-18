@@ -1,5 +1,5 @@
 # 👋 Hi there, I’m **Sri Nithya!**
-
+[kaggle](https://www.kaggle.com/auro15) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-nithya-s-0b47681a4/) | [![Gmail}(
 🎯 **Data Analyst & AI Automation Practitioner | Lifelong Learner | Problem Solver**
 
 Welcome to my GitHub profile!  
@@ -29,6 +29,21 @@ Currently, I’m focused on strengthening my portfolio with hands-on projects in
 
 🔗 **Project Repository:** [UM Internship Projects](https://github.com/Srinithya1503/UM-Projects)
 ```
+```
+## Best Projects
+### **1. FinTech Sentinel: High-Precision Fraud & Risk Engine | [kaggle](https://www.kaggle.com/code/auro15/fraud-analytics/notebook)**
+*Skills: Python(Pandas, NumPy), Excel, Risk Modeling         
+Domain: FinTech, Fraud Analytics, Regulatory Compliance* 
+- Engineered a multi-layered risk validation engine that secured $3.32M (83.25%) in fraudulent capital by identifying "Night-Owl" and "Digital Whale" spending patterns across 284k+ transactions.
+- Optimized operational efficiency by reducing False Positives by 92% through "Velocity Burst" logic and high-risk merchant blacklisting, transitioning from a 0% baseline to a high-impact, rule-based decision support system.
+  
+### **2. AI-Driven Career Navigator & Market Intelligence | [github](https://github.com/Srinithya1503/data-analytics-projects/tree/main/EDA/AI-Job-Recommendation-System)**
+*Stack: Python (Pandas, Scikit-Learn), Streamlit, Excel, VS Code
+Domain: HR-Tech, Predictive Analytics, Workforce Automation*
+- Engineered a Python-based engine to transform raw market data into a structured 14-sheet Career Intelligence Library, identifying a 10.9% salary premium for LLM-specialized roles.
+- Developed a Streamlit application that maps candidate skill sets to 25+ AI career paths, generating real-time Skill Gap reports and quantitative Readiness Scores.
+```
+
 ```
 ## 🏅 Certificates  
 
@@ -106,7 +121,7 @@ Developing **AI automations**, **chatbots**, and **agents** using **GenAI tools*
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-nithya-s-0b47681a4/)  
+ 
 📧 **Email:** [venkatsri1503@gmail.com](mailto:venkatsri1503@gmail.com)
 
 ---
