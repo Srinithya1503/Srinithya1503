@@ -28,15 +28,16 @@ Currently, I’m focused on strengthening my portfolio with hands-on projects in
 ---
 
 ✨ *"Turning data into insights, and insights into impact."*
+
 ---
+
 ## 👩‍🎓 Education
 🎓 **M.Tech in Medical Biotechnology** – *Indian Institute of Technology, Hyderabad (Aug 2023–June 2025)*
 * **M.Tech Dissertation:** Comparative Genomics of Signal Transduction Genes (Conducted in the **[Sharma Lab](https://sites.google.com/view/sharmaglab/people?authuser=0)**) | [project](https://github.com/Srinithya1503/MTech-project/tree/main)
 * *Achievement:* Automated genomic data collection for 600+ microbial genomes using custom Shell scripts and Python APIs; performed analysis using Pandas and NumPy.
 * *Coursework:* NGS Technology, Pharmacology of Receptors, Advanced Courses in Biotechnology.
 
-```
-```
+---
 
 ## 💼 Experience
 
@@ -50,8 +51,9 @@ Currently, I’m focused on strengthening my portfolio with hands-on projects in
 * Focused on interpretability, feasibility validation, and actionable decision support rather than metric optimization alone.
 
 🔗 **Project Repository:** [UM Internship Projects](https://github.com/Srinithya1503/UM-Projects)
-```
-```
+
+---
+
 ## Best Projects
 ### **1. FinTech Sentinel: High-Precision Fraud & Risk Engine | [kaggle](https://www.kaggle.com/code/auro15/fraud-analytics/notebook)**
 *Skills: Python(Pandas, NumPy), Excel, Risk Modeling         
@@ -64,9 +66,9 @@ Domain: FinTech, Fraud Analytics, Regulatory Compliance*
 Domain: HR-Tech, Predictive Analytics, Workforce Automation*
 - Engineered a Python-based engine to transform raw market data into a structured 14-sheet Career Intelligence Library, identifying a 10.9% salary premium for LLM-specialized roles.
 - Developed a Streamlit application that maps candidate skill sets to 25+ AI career paths, generating real-time Skill Gap reports and quantitative Readiness Scores.
-```
 
-```
+---
+
 ## 🏅 Certificates  
 
 - **Google Data Analytics Professional Certificate**  [Link](https://github.com/Srinithya1503/My-Certificates-and-Portfolio/blob/main/Sri_Nithya_S_GDA.pdf)
@@ -75,8 +77,7 @@ Domain: HR-Tech, Predictive Analytics, Workforce Automation*
 - **Machine Learning Fundamentals** [Link](https://github.com/Srinithya1503/My-Certificates-and-Portfolio/blob/main/DataCamp/DC_Skill_Tracks/Sri_Nithya_S_ML_FD_DC.pdf)
 - **Generative AI Foundations Certificate**  [Link](https://github.com/Srinithya1503/My-Certificates-and-Portfolio/blob/main/Sri_Nithya_S_Upgrad_GenAi.pdf)
 - **R Programming: Advanced Analysis in R for Data Science**  [Link](https://github.com/Srinithya1503/My-Certificates-and-Portfolio/blob/main/R%20Programming%20Advanced%20Analytics%20Udemy.pdf)
-
-
+  
 ---
 
 ## 🧠 Workshops  
@@ -99,6 +100,7 @@ Domain: HR-Tech, Predictive Analytics, Workforce Automation*
 | 💻 **Data Science** | Statistics, Feature Engineering, Model Evaluation, NLP|
 | 🧩 **AI Automation** | Prompt Engineering, LLMs, API integration, Workflow Automatiion, AI Automation |
 | 💡 **Soft Skills** | Presentation, Story telling, Version Control (Git) |
+
 ---
 
 ## 🚀 Featured Projects  - Data Mining Projects in [Healthcare, E-Commerce, Financial] Sectors 
