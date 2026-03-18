@@ -56,14 +56,14 @@ Currently, I’m focused on strengthening my portfolio with hands-on projects in
 
 ## Best Projects
 ### **1. FinTech Sentinel: High-Precision Fraud & Risk Engine | [kaggle](https://www.kaggle.com/code/auro15/fraud-analytics/notebook)**
-*Stack: Python(Pandas, NumPy), Excel, Risk Modeling         
-Domain: FinTech, Fraud Analytics, Regulatory Compliance* 
+*Stack: Python(Pandas, NumPy), Excel, Risk Modeling*         
+*Domain: FinTech, Fraud Analytics, Regulatory Compliance* 
 - Engineered a multi-layered risk validation engine that secured $3.32M (83.25%) in fraudulent capital by identifying "Night-Owl" and "Digital Whale" spending patterns across 284k+ transactions.
 - Optimized operational efficiency by reducing False Positives by 92% through "Velocity Burst" logic and high-risk merchant blacklisting, transitioning from a 0% baseline to a high-impact, rule-based decision support system.
   
 ### **2. AI-Driven Career Navigator & Market Intelligence | [github](https://github.com/Srinithya1503/data-analytics-projects/tree/main/EDA/AI-Job-Recommendation-System)**
-*Stack: Python (Pandas, Scikit-Learn), Streamlit, Excel, VS Code
-Domain: HR-Tech, Predictive Analytics, Workforce Automation*
+*Stack: Python (Pandas, Scikit-Learn), Streamlit, Excel, VS Code*
+*Domain: HR-Tech, Predictive Analytics, Workforce Automation*
 - Engineered a Python-based engine to transform raw market data into a structured 14-sheet Career Intelligence Library, identifying a 10.9% salary premium for LLM-specialized roles.
 - Developed a Streamlit application that maps candidate skill sets to 25+ AI career paths, generating real-time Skill Gap reports and quantitative Readiness Scores.
 
