@@ -56,7 +56,7 @@ Currently, I’m focused on strengthening my portfolio with hands-on projects in
 
 ## Best Projects
 ### **1. FinTech Sentinel: High-Precision Fraud & Risk Engine | [kaggle](https://www.kaggle.com/code/auro15/fraud-analytics/notebook)**
-*Skills: Python(Pandas, NumPy), Excel, Risk Modeling         
+*Stack: Python(Pandas, NumPy), Excel, Risk Modeling         
 Domain: FinTech, Fraud Analytics, Regulatory Compliance* 
 - Engineered a multi-layered risk validation engine that secured $3.32M (83.25%) in fraudulent capital by identifying "Night-Owl" and "Digital Whale" spending patterns across 284k+ transactions.
 - Optimized operational efficiency by reducing False Positives by 92% through "Velocity Burst" logic and high-risk merchant blacklisting, transitioning from a 0% baseline to a high-impact, rule-based decision support system.
