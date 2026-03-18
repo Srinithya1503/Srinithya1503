@@ -1,11 +1,33 @@
+
 # 👋 Hi there, I’m **Sri Nithya!**
-[kaggle](https://www.kaggle.com/auro15) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-nithya-s-0b47681a4/) | [![Gmail}(
+
+<p align="center">
+  <a href="https://www.kaggle.com/auro15">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sri-nithya-s-0b47681a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:venkatsri1503@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 🎯 **Data Analyst & AI Automation Practitioner | Lifelong Learner | Problem Solver**
 
+---
+
 Welcome to my GitHub profile!  
+
 I’m passionate about exploring data, uncovering insights, and building solutions that transform raw information into meaningful stories.  
+
 Currently, I’m focused on strengthening my portfolio with hands-on projects in **data science, analytics, and visualization**.
 
+---
+
+✨ *"Turning data into insights, and insights into impact."*
 ---
 ## 👩‍🎓 Education
 🎓 **M.Tech in Medical Biotechnology** – *Indian Institute of Technology, Hyderabad (Aug 2023–June 2025)*
