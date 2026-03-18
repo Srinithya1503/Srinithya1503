@@ -62,7 +62,7 @@ Currently, I’m focused on strengthening my portfolio with hands-on projects in
 - Optimized operational efficiency by reducing False Positives by 92% through "Velocity Burst" logic and high-risk merchant blacklisting, transitioning from a 0% baseline to a high-impact, rule-based decision support system.
   
 ### **2. AI-Driven Career Navigator & Market Intelligence | [github](https://github.com/Srinithya1503/data-analytics-projects/tree/main/EDA/AI-Job-Recommendation-System)**
-*Stack: Python (Pandas, Scikit-Learn), Streamlit, Excel, VS Code*
+*Stack: Python(Pandas, NumPy), Streamlit, Excel, VS Code*         
 *Domain: HR-Tech, Predictive Analytics, Workforce Automation*
 - Engineered a Python-based engine to transform raw market data into a structured 14-sheet Career Intelligence Library, identifying a 10.9% salary premium for LLM-specialized roles.
 - Developed a Streamlit application that maps candidate skill sets to 25+ AI career paths, generating real-time Skill Gap reports and quantitative Readiness Scores.
