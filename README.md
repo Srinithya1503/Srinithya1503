@@ -15,7 +15,7 @@
 
 ---
 
-🎯 **Data Analyst & AI Automation Practitioner | Lifelong Learner | Problem Solver**
+🎯 **Data Analyst & AI Automation Practitioner | Python.SQL.Excel**
 
 ---
 
@@ -74,7 +74,6 @@ Currently, I’m focused on strengthening my portfolio with hands-on projects in
 - **Google Data Analytics Professional Certificate**  [Link](https://github.com/Srinithya1503/My-Certificates-and-Portfolio/blob/main/Sri_Nithya_S_GDA.pdf)
 - **Python Fundamentals**  [Link](https://github.com/Srinithya1503/My-Certificates-and-Portfolio/blob/main/PY_FD_SOA.pdf)
 - **Associate Data Analyst in SQL** [Link](https://github.com/Srinithya1503/My-Certificates-and-Portfolio/blob/main/SQL_DC.pdf)
-- **Machine Learning Fundamentals** [Link](https://github.com/Srinithya1503/My-Certificates-and-Portfolio/blob/main/DataCamp/DC_Skill_Tracks/Sri_Nithya_S_ML_FD_DC.pdf)
 - **Generative AI Foundations Certificate**  [Link](https://github.com/Srinithya1503/My-Certificates-and-Portfolio/blob/main/Sri_Nithya_S_Upgrad_GenAi.pdf)
 - **R Programming: Advanced Analysis in R for Data Science**  [Link](https://github.com/Srinithya1503/My-Certificates-and-Portfolio/blob/main/R%20Programming%20Advanced%20Analytics%20Udemy.pdf)
   
@@ -93,12 +92,12 @@ Currently, I’m focused on strengthening my portfolio with hands-on projects in
 | **Category** | **Skills / Tools** |
 |:--------------|:------------------|
 | 🌐 **Data Collection** | Web Scraping *(BeautifulSoup, Scrapy, Selenium)*, APIs |
-| 🗄️ **Databases** | PostgreSQL *(Advanced)*, PySpark, ETL |
+| 🗄️ **Databases** | PostgreSQL, ETL |
 | 📈 **Data Analytics** | Data Cleaning, Data Annotation, EDA, Predictive Analytics, KPI Analysis, Business Insights | 
 | 📊 **Visualization & BI** | Power BI, Tableau, MS Excel, Streamlit |
 | ⚙️ **Programming** | Shell scripting, R, Python (pandas, NumPy, Scikit-learn, matplotlib, seaborn, plotly, SciPy)|
 | 💻 **Data Science** | Statistics, Feature Engineering, Model Evaluation, NLP|
-| 🧩 **AI Automation** | Prompt Engineering, LLMs, API integration, Workflow Automatiion, AI Automation |
+| 🧩 **AI Automation** | Prompt Engineering, LLM API integration, Workflow Automatiion, AI Automation |
 | 💡 **Soft Skills** | Presentation, Story telling, Version Control (Git) |
 
 ---
@@ -123,15 +122,6 @@ Tools Used : MS-Excel, Postgresql, Python(Pandas, NumPy, Matplotlib, Seaborn)
 ### 📈 **Dashboards & Data Visualization** | [Link](https://github.com/Srinithya1503/Dashboards-and-Data-Visualizations)
 Designing **interactive dashboards** in **Power BI** and **Tableau** to communicate data-driven insights effectively.
 
----
-
-### 🤖 **Machine Learning Projects** | [Link](https://github.com/Srinithya1503/Machine-Learning-Projects)
-Building and deploying intelligent solutions using **ML Pipelines**, and **Deep Learning** techniques.
-
----
-
-### 🔧 **Generative AI Projects** | [Link](https://github.com/Srinithya1503/Gen-AI-Projects)
-Developing **AI automations**, **chatbots**, and **agents** using **GenAI tools**, **open LLMs**, and platforms like *make.com* and *n8n*.
 
 ---
 
