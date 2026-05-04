@@ -1,5 +1,5 @@
 
-# 👋 Hi there, I’m **Sri Nithya!**
+# 🏥 👋 Hi there, I’m **Sri Nithya!**
 
 <p align="center">
   <a href="https://www.kaggle.com/auro15">
@@ -15,125 +15,165 @@
 
 ---
 
-🎯 **Data Analyst & AI Automation Practitioner | Python.SQL.Excel**
+🎯 **Clinical Data Analyst | GCP | eTMF | Healthcare Analytics | Python · SQL · Excel**
 
 ---
 
-Welcome to my GitHub profile!  
+## 📌 About Me
 
-I’m passionate about exploring data, uncovering insights, and building solutions that transform raw information into meaningful stories.  
+I am an aspiring **Clinical & Healthcare Data Analyst** with a background in **Medical Biotechnology**, focused on transforming clinical and healthcare data into **regulatory-compliant, audit-ready insights**.
 
-Currently, I’m focused on strengthening my portfolio with hands-on projects in **data science, analytics, and visualization**.
+I aim to sit at the intersection of:
+
+* Clinical Research & GCP Compliance
+* Medical Coding (ICD-10 / ICD-11)
+* Clinical Data Analytics
+* eTMF & Documentation Quality
 
 ---
 
-✨ *"Turning data into insights, and insights into impact."*
+✨ *"From clinical data to compliant insights that drive healthcare decisions."*
 
 ---
 
 ## 👩‍🎓 Education
-🎓 **M.Tech in Medical Biotechnology** – *Indian Institute of Technology, Hyderabad (Aug 2023–June 2025)*
-* **M.Tech Dissertation:** Comparative Genomics of Signal Transduction Genes (Conducted in the **[Sharma Lab](https://sites.google.com/view/sharmaglab/people?authuser=0)**) | [project](https://github.com/Srinithya1503/MTech-project/tree/main)
-* *Achievement:* Automated genomic data collection for 600+ microbial genomes using custom Shell scripts and Python APIs; performed analysis using Pandas and NumPy.
-* *Coursework:* NGS Technology, Pharmacology of Receptors, Advanced Courses in Biotechnology.
+
+🎓 **M.Tech in Medical Biotechnology**
+*Indian Institute of Technology, Hyderabad (2023–2025)*
+
+* 🧬 **Dissertation:** Comparative Genomics of Signal Transduction Genes
+* ⚙️ Automated genomic data pipelines for **600+ microbial genomes**
+* 📊 Performed large-scale analysis using **Python (Pandas, NumPy)**
+* 📚 Coursework: NGS Technology, Pharmacology, Advanced Biotechnology
 
 ---
 
 ## 💼 Experience
 
-### 🏢 **Data Science Intern**
+### 🏢 **Data Science Intern (Healthcare & Analytics)**
 
-**Unified Mentor Private Limited** | [Certificate](https://github.com/Srinithya1503/My-Certificates-and-Portfolio/blob/main/Sri_Nithya_S_UM_internship.pdf) | *Nov 2025 – Jan 2026*
+**Unified Mentor Pvt Ltd** | *Nov 2025 – Jan 2026*
 
-* Completed 4 end-to-end industry-aligned data science projects across healthcare, retail, supply chain, and HR analytics domains.
-* Built machine learning pipelines, engineered features, and implemented SHAP-based explainability for responsible AI modeling.
-* Developed interactive dashboards using Streamlit and Power BI to translate analytical outputs into business-ready insights.
-* Focused on interpretability, feasibility validation, and actionable decision support rather than metric optimization alone.
+* Built **end-to-end analytical pipelines** across healthcare & business domains
+* Applied **data validation, feature engineering, and explainability (SHAP)**
+* Developed dashboards for **decision-making & operational insights**
+* Focused on **interpretable, audit-ready analytics**
 
-🔗 **Project Repository:** [UM Internship Projects](https://github.com/Srinithya1503/UM-Projects)
-
----
-
-## Best Projects
-### **1. FinTech Sentinel: High-Precision Fraud & Risk Engine | [kaggle](https://www.kaggle.com/code/auro15/fraud-analytics/notebook)**
-*Stack: Python(Pandas, NumPy), Excel, Risk Modeling*         
-*Domain: FinTech, Fraud Analytics, Regulatory Compliance* 
-- Engineered a multi-layered risk validation engine that secured $3.32M (83.25%) in fraudulent capital by identifying "Night-Owl" and "Digital Whale" spending patterns across 284k+ transactions.
-- Optimized operational efficiency by reducing False Positives by 92% through "Velocity Burst" logic and high-risk merchant blacklisting, transitioning from a 0% baseline to a high-impact, rule-based decision support system.
-  
-### **2. AI-Driven Career Navigator & Market Intelligence | [github](https://github.com/Srinithya1503/data-analytics-projects/tree/main/EDA/AI-Job-Recommendation-System)**
-*Stack: Python(Pandas, NumPy), Streamlit, Excel, VS Code*         
-*Domain: HR-Tech, Predictive Analytics, Workforce Automation*
-- Engineered a Python-based engine to transform raw market data into a structured 14-sheet Career Intelligence Library, identifying a 10.9% salary premium for LLM-specialized roles.
-- Developed a Streamlit application that maps candidate skill sets to 25+ AI career paths, generating real-time Skill Gap reports and quantitative Readiness Scores.
+🔗 [Project Repository](https://github.com/Srinithya1503/UM-Projects)
 
 ---
 
-## 🏅 Certificates  
+## 📊 Highlight Projects (Transferable Skills)
 
-- **Google Data Analytics Professional Certificate**  [Link](https://github.com/Srinithya1503/My-Certificates-and-Portfolio/blob/main/Sri_Nithya_S_GDA.pdf)
-- **Python Fundamentals**  [Link](https://github.com/Srinithya1503/My-Certificates-and-Portfolio/blob/main/PY_FD_SOA.pdf)
-- **Associate Data Analyst in SQL** [Link](https://github.com/Srinithya1503/My-Certificates-and-Portfolio/blob/main/SQL_DC.pdf)
-- **Generative AI Foundations Certificate**  [Link](https://github.com/Srinithya1503/My-Certificates-and-Portfolio/blob/main/Sri_Nithya_S_Upgrad_GenAi.pdf)
-- **R Programming: Advanced Analysis in R for Data Science**  [Link](https://github.com/Srinithya1503/My-Certificates-and-Portfolio/blob/main/R%20Programming%20Advanced%20Analytics%20Udemy.pdf)
-  
----
+### 💳 **Fraud & Risk Analytics Engine**
 
-## 🧠 Workshops  
-
-- 🤖 **AI Tools Workshop**  
-- 📈 **AI Dashboards using Microsoft Power BI**
-- 🤖 **GenAI Generalist** 
+* Built rule-based risk detection system (284k+ records)
+* Reduced false positives by **92%**
+* *Transferable to clinical anomaly detection*
 
 ---
 
-## 🛠️ Skills & Tools  
+### 🤖 **AI Career Intelligence System**
 
-| **Category** | **Skills / Tools** |
-|:--------------|:------------------|
-| 🌐 **Data Collection** | Web Scraping *(BeautifulSoup, Scrapy, Selenium)*, APIs |
-| 🗄️ **Databases** | PostgreSQL, ETL |
-| 📈 **Data Analytics** | Data Cleaning, Data Annotation, EDA, Predictive Analytics, KPI Analysis, Business Insights | 
-| 📊 **Visualization & BI** | Power BI, Tableau, MS Excel, Streamlit |
-| ⚙️ **Programming** | Shell scripting, R, Python (pandas, NumPy, Scikit-learn, matplotlib, seaborn, plotly, SciPy)|
-| 💻 **Data Science** | Statistics, Feature Engineering, Model Evaluation, NLP|
-| 🧩 **AI Automation** | Prompt Engineering, LLM API integration, Workflow Automatiion, AI Automation |
-| 💡 **Soft Skills** | Presentation, Story telling, Version Control (Git) |
+* Built structured analytics system for decision-making
+* Developed Streamlit-based dashboards
+* *Transferable to clinical dashboards*
 
 ---
 
-## 🚀 Featured Projects  - Data Mining Projects in [Healthcare, E-Commerce, Financial] Sectors 
+## 🛠️ Skills & Tools
 
-
-### 🌐 **Data Collection Projects**  | [Link]()
-Collecting real-world data from websites using tools like *BeautifulSoup*, *Selenium*, and *Scrapy* for analytics and ML pipelines.
-
----
-
-### 📊 **Data Analysis Projects** | [Link](https://github.com/Srinithya1503/data-analytics-projects)
-Analyzing datasets to uncover trends, patterns, and insights using **Excel**, **Python**, **SQL**.
-Tools Used : MS-Excel, Postgresql, Python(Pandas, NumPy, Matplotlib, Seaborn)
-#### ***Data Annotation*** | [Link](https://github.com/Srinithya1503/data-analytics-projects/tree/main/data-annotation)
-#### ***Exploratory Data Analysis(EDA)*** | [Link](https://github.com/Srinithya1503/data-analytics-projects/tree/main/EDA)
-#### ***SQL-Projects*** | [Link](https://github.com/Srinithya1503/data-analytics-projects/tree/main/sql-projects)
+| Category| Skills & Expertise |
+|---|---|
+| 🧬 Clinical & Regulatory | GCP (Good Clinical Practice), TMF / eTMF workflows, Clinical documentation QA, Audit readiness concepts |
+| 🏥 Healthcare Data | ICD-10 / ICD-11 coding, Medical terminology, Clinical data interpretation |
+| 📊 Data Analytics | Data Cleaning & Validation, Exploratory Data Analysis (EDA), KPI & Outcome Analysis |
+| ⚙️ Technical Stack | Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL), Excel (Advanced), Power BI / Tableau / Streamlit |
 
 ---
 
-### 📈 **Dashboards & Data Visualization** | [Link](https://github.com/Srinithya1503/Dashboards-and-Data-Visualizations)
-Designing **interactive dashboards** in **Power BI** and **Tableau** to communicate data-driven insights effectively.
+## 🏅 Certifications
 
+* Google Data Analytics Professional Certificate
+* Python Fundamentals
+* SQL Data Analyst Certification
+* Generative AI Foundations
+* R Programming for Data Science
+
+📌 *Currently Adding:*
+
+* Clinical Research (GCP Certification)
+* eTMF Management Masterclass
+* ICD Medical Coding Certification
+* 
+---
+
+## 🚀 Career Focus
+
+### Target Roles
+
+* Clinical Data Analyst
+* Clinical Research Coordinator (CRC)
+* eTMF Specialist
+* Clinical Data Associate
 
 ---
 
-✨ *More projects coming soon as I continue expanding my portfolio!*  
+## 🌱 Currently Learning
+
+* Clinical Research & GCP
+* eTMF Systems
+* ICD Coding
+* Clinical Data Analytics
 
 ---
 
-## 🌱 Currently Learning  
-- AI Agents Orchestration  
+## 🧪 Future Clinical & Healthcare Projects 
+
+### 📂 **eTMF Audit & Quality Engine **
+
+*Domain: Clinical Documentation | QA | Regulatory*
+
+* Designed validation logic for:
+
+  * Missing TMF documents
+  * Metadata inconsistencies
+  * Compliance gaps
+* Inspired by real-world **inspection readiness workflows**
 
 ---
 
-> ✨ *"Data is the new oil, but insight is the spark that makes it valuable."*
+### 🏥 **ICD-10 / ICD-11 Medical Coding Practice**
+
+*Domain: Healthcare Data Standardization*
+
+* Mapped diagnoses → standardized ICD codes
+* Compared ICD-10 vs ICD-11 classification systems
+* Built structured datasets for clinical analysis
 
 ---
+
+### 📊 **Clinical Data Analysis (Planned)**
+
+*Domain: Clinical Analytics*
+
+* Patient dataset analysis
+* Data cleaning & validation
+* Outcome-based insights
+
+---
+
+## 👩‍💼 Contact
+
+📧 [venkatsri1503@gmail.com](mailto:venkatsri1503@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/sri-nithya-s-0b47681a4/)
+
+---
+
+## ⭐ Final Note
+
+This profile is continuously evolving as I build **real-world clinical data projects and regulatory-focused analytics systems**.
+
+---
+
+
