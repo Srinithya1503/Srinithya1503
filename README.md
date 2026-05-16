@@ -1,5 +1,5 @@
 
-# 🏥 👋 Hi there, I’m **Sri Nithya!**
+#👋 Hi there, I’m **Sri Nithya!**
 
 <p align="center">
   <a href="https://www.kaggle.com/auro15">
